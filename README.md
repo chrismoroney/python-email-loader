@@ -44,7 +44,7 @@ pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib
 ```
 
 ### 3. Enable Gmail API
-- Visit Google Cloud Console
+- Visit [Google Cloud Console](https://console.cloud.google.com/)
 
 - Create or select a project
 
@@ -91,11 +91,11 @@ gmail-reader-app/
 
 ### Security Notes
 
-- Never share your credentials.json or token.json files
+- Never share your ```credentials.json``` or ```token.json``` files
 
 - These files contain sensitive access tokens linked to your Google account
 
-- If compromised, revoke access via your Google Account Security
+- If compromised, revoke access via your [Google Account Security](https://myaccount.google.com/security)
 
 ### What's Next?
 You can extend this app to:
